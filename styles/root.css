@@ -1,0 +1,55 @@
+/* impordime teise faili */
+:root {
+  --bg-black: #00010D;
+  --h1-yellow: #D99D4A;
+  --bg-gray: #D9D9D9;
+  --bg-green: #4AA2D9;
+  --text-white: #f7f7f7;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1rem;
+  letter-spacing: 0.05rem;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+small {
+  font-size: 12px;
+}
+
+h1 {
+  font-size: 24px;
+  font-weight: normal;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: 20px;
+  font-weight: normal;
+  text-transform: uppercase;
+}
+
+h3, h4, h5, h6 {
+  font-weight: lighter;
+  text-transform: uppercase;
+}
+
+h4 {
+  margin-bottom: 4px;
+}
+
+p {
+  margin-top: 4px;
+}
+
+li {
+  list-style: none;
+}
+
+article {
+  padding: 0 16px;
+}
+/*# sourceMappingURL=root.css.map */

@@ -1,0 +1,55 @@
+{
+    "name": {
+        "first": "Voldemar",
+        "last": "Pungar"
+    },
+    "image": {
+        "src": "./pildid/profile.png",
+        "alt": "Roman Gorislavski profile picture"
+    },
+    "description": "Loremipsum&shy;dolorsitametconsect&shy;eturadipiscing elit. Duis porttitor lacus ac nisl gravida faucibus et non augue.",
+    "descContinue": "Suspendisse nec bibendum dolor. Cras quis&shy;varius diam. Fusce ut facilisis mauris. Nulla mattis sapien nec dictum fermentum. Curabitur maximus eros ut urna efficitur, vitae dictum eros dignissim. Maecenas ullamcorper dolor a maximus rutrum. Cras at ipsum ut erat mattis venenatis. Suspendisse malesuada ante eget gravida convallis. Pellentesque dolor ante, pellentesque vitae tempor non, sodales quis massa. Nunc dignissim eros sed dolor euismod laoreet.",
+    "contacts": [{
+            "name": "CV",
+            "itemprop": null,
+            "href": "#",
+            "content": "LinkedIn profile"
+        },
+        {
+            "name": "Email",
+            "itemprop": "email",
+            "href": "#",
+            "content": "myname@gmail.com"
+        },
+        {
+            "name": "Phone",
+            "itemprop": "telephone",
+            "href": "tel:#",
+            "content": "12345678"
+        }
+    ],
+    "education": [{
+            "school": "Estonian University of Life Sciences / Universidade do Porto",
+            "title": "Master of Science in Landscape Architecture (MSc)",
+            "year": 2017
+        },
+        {
+            "school": "Estonian University of Life Sciences",
+            "title": "Bachelor of Science in Landscape Architecture (MSc)",
+            "year": 2014
+        }
+    ],
+    "xp": [{
+            "title": "HTML",
+            "level": 0.5
+        },
+        {
+            "title": "CSS",
+            "level": 0.5
+        },
+        {
+            "title": "JS",
+            "level": 0.25
+        }
+    ]
+}

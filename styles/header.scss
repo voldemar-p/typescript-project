@@ -1,0 +1,23 @@
+.main-nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: var(--bg-green); /* var algab alati kahe sidekriipsuga */ 
+    z-index: 100;
+    @media screen and (min-width: 576px) {
+        width: 100%;
+        position: sticky;
+        top:0;
+    }
+}
+
+.main-button {
+    background-color: var(--bg-black);
+    color: var(--text-white);
+    border-left: 4px solid var(--bg-green);
+    height: 61px;
+    line-height: 61px;
+    width: 150px;
+    text-align: center;
+    text-transform: uppercase;
+}
